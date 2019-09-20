@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Agenda Versión Node para crear la base de datos entra a c:/archivos de programa/mongo y ejecuta mongo.exe:
+=======
+Agenda
+Versión Node
+para crear la base de datos entra a c:/archivos de programa/mongo y ejecuta mongo.exe:
+>>>>>>> 648e2599c7999155e79f410daec7667c59c8cd5b
 
 despues inserta el siguiente comando:
 
@@ -14,4 +20,8 @@ node index.js
 
 por ultimo te saldra un mensaje diciendo server is listening on port 3000 y conectado a mongodb, luego de esto pon la siguiente direccion en el navegador.
 
+<<<<<<< HEAD
 localhost:3000/index.html
+=======
+localhost:3000/index.html
+>>>>>>> 648e2599c7999155e79f410daec7667c59c8cd5b
